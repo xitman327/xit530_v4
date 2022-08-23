@@ -1,21 +1,21 @@
 #define board_name "XIT530 V4"
 
-#define in0 PJ0
-#define in1 PJ1
-#define in2 PJ2
-#define in3 PJ3
-#define in4 PJ4
-#define in5 PJ5
-#define in6 PJ6
-#define in7 PJ7
-#define in8 PC0
-#define in9 PC1
-#define in10 PC2
-#define in11 PC3
-#define in12 PC4
-#define in13 PC5
-#define in14 PC6
-#define in15 PC7
+#define din0 PJ0
+#define din1 PJ1
+#define din2 PJ2
+#define din3 PJ3
+#define din4 PJ4
+#define din5 PJ5
+#define din6 PJ6
+#define din7 PJ7
+#define din8 PC0
+#define din9 PC1
+#define din10 PC2
+#define din11 PC3
+#define din12 PC4
+#define din13 PC5
+#define din14 PC6
+#define din15 PC7
 
 #define ain_424_0 PF0
 #define ain_424_1 PF1
