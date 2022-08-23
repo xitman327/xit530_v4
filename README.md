@@ -1,2 +1,2 @@
-# xit530_v4
+# XIT530 V4
 Semi-Modular HeatPump Controller
