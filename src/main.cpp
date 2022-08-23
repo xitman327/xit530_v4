@@ -3,6 +3,7 @@
 #include <uRTCLib.h>
 
 #include "defines.h"
+#include "iocontrol.h"
 
 void preTransmission()
 {
